@@ -3,9 +3,7 @@
 
 ## Bem vindo ao meu perfil GitHub 👋
 
-> Tenho 21 anos, moro em São Paulo e sou Desenvolvedor full stack. 
-> 
->> Estou fazendo a faculdade de Ciências da Computação na UNIP e também fiz outros cursos como, Técnico de Desenvolvimento de Sistemas e o curso de Técnicas de reparo e configuração de computadores, sendo os dois feitos no SENAI.
+> Tenho 25 anos, moro em São Paulo e sou formado em Ciência da Computação. Sou Desenvolvedor full stack aplicando conhecimentos em C#, .NET, Entity Framework Core, Python, SQL Server, MySQL, JavaScript e React.js no desenvolvimento de aplicações e APIs. Busco contribuir com soluções eficientes, participar de projetos desafiadores e evoluir continuamente em uma equipe colaborativa.
 
 
 ## 🖥️ Tecnologias e Ferramentas:
@@ -29,21 +27,18 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "github" width="40" height="40"/></code>
 
 
-## 📊 Estatísticas GitHub:
-
-<div>
-<a href="https://github.com/Pedro-B-Alves">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-B-Alves&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-B-Alves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-
 ### 📪 Contatos:
 
 <div>
-<a href = "mailto:pedro22carro@gmail.com?subject=Mensagem do github"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/pedro-henrique-brito-alves-6892a114a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="mailto:pedro22carro@gmail.com?subject=Mensagem%20do%20GitHub" title="Enviar email">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email pelo Gmail">
+  </a>
+
+  <a href="https://www.linkedin.com/in/pedro-henrique-brito-alves-6892a114a/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+      style="border:0; display:block;"
+    />
+  </a>
 </div>
-
-
-![Snake animation](https://github.com/Pedro-B-Alves/Pedro-B-Alves/blob/output/github-contribution-grid-snake.svg)
