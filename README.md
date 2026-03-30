@@ -26,19 +26,64 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "git" width="40" height="40"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "github" width="40" height="40"/></code>
 
+## 🚀 Projetos
+
+<div>
+  <h3>📌 Projeto SENAI (Front-end)</h3>
+  <p>Projeto desenvolvido durante o curso no SENAI focado em desenvolvimento front-end.</p>
+  <a href="https://github.com/Pedro-B-Alves/senai_sprint4_front-end" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
+<br>
+
+<div>
+  <h3>📌 Sistema de Cadastro</h3>
+  <p>Sistema para cadastro de usuários com foco em organização e manipulação de dados.</p>
+  <a href="https://github.com/Pedro-B-Alves/sistemaDeCadastro" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
+<br>
+
+<div>
+  <h3>📌 Lista de Desejos (WishList)</h3>
+  <p>Aplicação para gerenciamento de desejos com interface simples e funcional.</p>
+  <a href="https://github.com/Pedro-B-Alves/WishList" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
+<br>
+
+<div>
+  <h3>📌 Chat com TCP/IP</h3>
+  <p>Projeto de chat utilizando protocolo TCP/IP para comunicação entre usuários.</p>
+  <a href="https://github.com/Pedro-B-Alves/Chat" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
 
 ### 📪 Contatos:
 
 <div>
-  <a href="mailto:pedro22carro@gmail.com?subject=Mensagem%20do%20GitHub" title="Enviar email">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email pelo Gmail">
-  </a>
-
   <a href="https://www.linkedin.com/in/pedro-henrique-brito-alves-6892a114a/" target="_blank">
     <img
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
       style="border:0; display:block;"
     />
+  </a>
+  <a href="https://linktr.ee/Pedro_B_Alves" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"
+      alt="Linktree"
+      style="border:0; display:block;"
+    />
+  </a>
+  <a href="mailto:pedro22carro@gmail.com?subject=Mensagem%20do%20GitHub" title="Enviar email">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email pelo Gmail">
   </a>
 </div>
