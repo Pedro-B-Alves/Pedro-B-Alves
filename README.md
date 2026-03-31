@@ -69,7 +69,7 @@
 ### 📪 Contatos:
 
 <div>
-  <a href="https://www.linkedin.com/in/pedro-henrique-brito-alves-6892a114a/" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-henrique-brito-alves/" target="_blank">
     <img
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
